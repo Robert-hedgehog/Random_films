@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Случайный фильм</string>
+    <string name="btn_next_film">Следующий фильм</string>
+    <string name="btn_reset">Сбросить</string>
+    <string name="initial_prompt">Нажмите кнопку, чтобы получить фильм</string>
+    <string name="no_more_films">Фильмы закончились! Нажмите «Сбросить», чтобы начать сначала.</string>
+
+    <string-array name="movies_array">
+        <item>Начало</item>
+        <item>Интерстеллар</item>
+        <item>Матрица</item>
+        <item>Побег из Шоушенка</item>
+        <item>Криминальное чтиво</item>
+        <item>Форрест Гамп</item>
+        <item>Тёмный рыцарь</item>
+    </string-array>
+</resources>
